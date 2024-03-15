@@ -7,6 +7,7 @@ def find_maxima(x):
     Output: 
     idx -- list of indices of the local maxima in x 
     """ 
+    # we shuld adapt this code
     indices = [] 
     # check border condition at start 
     if x[0] > x[1]: 
